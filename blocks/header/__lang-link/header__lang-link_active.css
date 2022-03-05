@@ -1,0 +1,12 @@
+.header__lang-link_active {
+    text-decoration: underline;
+    color: #fff;
+    margin-right: 18px;
+}
+
+@media (max-width: 767px) {
+    .header__lang-link_active:last-child {
+        margin-right: 18px;
+    }
+    
+}
