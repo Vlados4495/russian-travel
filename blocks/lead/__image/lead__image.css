@@ -5,30 +5,30 @@
 
 @media (max-width: 1024px) {
   .lead__image {
-    max-width: 928px;
+    max-width: 100%;
   }
 }
 
 @media (max-width: 768px) {
   .lead__image {
-    max-width: 768px;
+    max-width: 100%;
   }
 }
 
 @media (max-width: 540px) {
   .lead__image {
-    max-width: 540px;
+    max-width: 100%;
   }
 }
 
 @media (max-width: 425px) {
   .lead__image {
-    max-width: 425px;
+    max-width: 100%;
   }
 }
 
 @media (max-width: 320px) {
   .lead__image {
-    max-width: 320px;
+    max-width: 100%;
   }
 }
